@@ -1,7 +1,7 @@
 import java.util.*;
 class expensecalculator{
   public static void main(String args[]){
-     int incom,expense,amount;
+     int incom,expense,amount,edited;
      Scanner s=new Scanner(System.in);
      incom=s.nextInt();
      expense=s.nextInt();
